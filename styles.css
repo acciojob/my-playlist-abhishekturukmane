@@ -5,6 +5,13 @@ body{
 h1{
 	text-align:center;
 }
+h2{
+	text-align:center;
+}
+ul{
+	list-style-type: none;
+	padding-left:0px;
+}
 .player_one a{
 	text-decoration:none;
 	padding:20px;
