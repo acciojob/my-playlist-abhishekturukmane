@@ -1,1 +1,43 @@
 /*  your css code here. If applicable */
+body{
+	background:#cccccc;
+}
+h1{
+	text-align:center;
+}
+.player_one a{
+	text-decoration:none;
+	padding:20px;
+	
+	
+}
+.player_one{
+	margin:15px;
+	background:white;
+	border:1px solid black;
+	border-radius:10px;
+	
+	
+}
+
+.player_two{
+	
+	background:white;
+	border:1px solid #cccccc;
+	border-radius:10px;
+	text-align:center;
+	margin-left:130px;
+	margin-right:130px;
+	
+}
+.player_two .video{
+	margin-top:40px;
+}
+.player_two .audio p{
+	text-align:left;
+	padding-left:70px;
+}
+
+.audio audio{
+	width:620px;
+}
